@@ -1,0 +1,22 @@
+{
+	"name": "LLM-Researcher",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"@mozilla/readability": "^0.5.0",
+		"eslint": "^9.13.0",
+		"google-sr": "^4.0.0",
+		"groq-sdk": "^0.7.0",
+		"puppeteer": "^23.6.1",
+		"puppeteer-extra": "^3.3.6",
+		"puppeteer-extra-plugin-stealth": "^2.11.2",
+		"undici": "^6.20.1"
+	}
+}
